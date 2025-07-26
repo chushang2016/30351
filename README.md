@@ -1,4 +1,4 @@
-
+<img width="1280" height="1811" alt="1" src="https://github.com/user-attachments/assets/4bff9521-2c8d-45be-86b6-5888d2cc016f" />
  # 30351_基于微信小程序的新生自助报到系统--论文
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30351
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=30351
  
  * 2000+项目及演示视频 ：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
    
